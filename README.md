@@ -1,5 +1,9 @@
 # Super-Sparty-Bros
-![Sparty Image](/Sparty.png)
+
+<p align="center">
+  <img src="./Sparty.png" alt="Sparty" height="400"/>
+</p>
+
 ## Overview
 ![Screenshot Image](/Screenshot.png)
 **Super-Sparty-Bros** is a 2D platformer game developed in Unity3D as part of my game development training. It showcases the skills I've learned throughout the course. The game is inspired by the classic *Super Mario Bros* game and serves as a final project for the course I attended.
