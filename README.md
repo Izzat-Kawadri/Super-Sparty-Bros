@@ -4,7 +4,9 @@
 ![Screenshot Image](/Screenshot.png)
 **Super-Sparty-Bros** is a 2D platformer game developed in Unity3D as part of my game development training. It showcases the skills I've learned throughout the course. The game is inspired by the classic *Super Mario Bros* game and serves as a final project for the course I attended.
 
-In this game, you control a character named **Sparty**, who must navigate through challenging levels, avoiding enemies, collecting coins and hearts, and progressing to the next level by reaching the end of each stage. The project was developed as a demonstration of my understanding of 2D game mechanics, Unity3D game engine, and game design principles.
+ In this game, you control a character named **Sparty**, who must navigate through challenging levels, avoiding enemies, collecting coins and hearts, and progressing to the next level by 
+ reaching the end of each stage. The project was developed as a demonstration of my understanding of 2D game mechanics, Unity3D game engine, and game design principles.
+
 ---
 ## Game Features
 - **Character Control**: Players control Sparty, running, jumping, and avoiding enemies.
