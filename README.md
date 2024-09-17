@@ -1,6 +1,6 @@
 # Super-Sparty-Bros
 
-<p align="center">
+<p >
   <img src="./Sparty.png" alt="Sparty" height="200"/>
 </p>
 
