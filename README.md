@@ -31,7 +31,7 @@
 4. Avoid enemies, collect coins and hearts, and reach the end of the level to proceed.
 
 ## Game Link:
-
+https://izzat-ka.itch.io/superspartybros
 ---
 ## Credits
 
